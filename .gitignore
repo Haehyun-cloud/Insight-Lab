@@ -1,0 +1,16 @@
+# This repository is an allow-listed public showcase.
+*
+!.gitignore
+!README.md
+!WORKFLOW.md
+!reports/
+!reports/*.md
+
+# Never publish source papers, local state, credentials, or runtime artifacts.
+*.pdf
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
