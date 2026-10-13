@@ -47,9 +47,8 @@ showcase입니다. 다음 자료는 포함하지 않습니다.
 - 개인 Vault, 원시 provider response, rejected artifact와 checkpoint
 - 내부 canonical JSON, audit database와 논문별 작업 기록
 
-Report는 학습 workflow의 출력 형태를 보여주기 위한 문서이며 원 논문
-자체를 대체하지 않습니다. 연구 내용의 확인과 인용에는 Report에 표시된 DOI
-및 정식 출판 기록을 사용해야 합니다.
+Report는 원 논문 자체를 대체하지 않습니다.
+연구 내용의 확인과 인용에는 Report에 표시된 DOI 및 정식 출판 기록을 사용해야 합니다.
 
 ## Status
 
